@@ -1,6 +1,6 @@
 <?php
 
-error_reporting(E_ALL);
+
 
 /*
 Plugin Name: statistics_widgets
