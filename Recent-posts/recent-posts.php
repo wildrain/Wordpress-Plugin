@@ -3,7 +3,7 @@
 error_reporting(E_ALL);
 
 /*
-Plugin Name: adaptive_recent_posts
+Plugin Name: recent_posts
 Plugin URI: http://example.com
 Description: a amazing recent posts widget for adaptive framework
 Author Name: roman-ul-ferdosh
